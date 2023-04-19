@@ -1,0 +1,58 @@
+[ 
+  {
+    "model":"api_solution3.Property",
+    "pk":1,
+    "fields":{
+        "key":"center",
+        "value":"100, 100"
+    }
+  },
+  {
+    "model":"api_solution3.Property",
+    "pk":2,
+    "fields":{
+        "key":"radius",
+        "value":"50"
+    }
+  },
+  {
+    "model":"api_solution3.Property",
+    "pk":3,
+    "fields":{
+        "key":"start",
+        "value":"150, 50"
+    }
+  },
+  {
+    "model":"api_solution3.Property",
+    "pk":4,
+    "fields":{
+        "key":"end",
+        "value":"50, 150"
+    }
+  },
+  {
+    "model":"api_solution3.Property",
+    "pk":5,
+    "fields":{
+        "key":"класс",
+        "value":"Млекопитающие"
+    }
+  },
+  {
+    "model":"api_solution3.Property",
+    "pk":6,
+    "fields":{
+        "key":"corner_1",
+        "value":"50, 50"
+    }
+  },
+  {
+    "model":"api_solution3.Property",
+    "pk":7,
+    "fields":{
+        "key":"corner_2",
+        "value":"150, 150"
+    }
+  }
+]

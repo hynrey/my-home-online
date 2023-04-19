@@ -1,0 +1,34 @@
+[ 
+  {
+    "model":"api_solution3.entity",
+    "pk":1,
+    "fields":{
+      "value": 1,
+      "properties": [1, 2]
+    }
+  },
+  {
+    "model":"api_solution3.entity",
+    "pk":2,
+    "fields":{
+      "value": 2,
+      "properties": [3,4]
+    }
+  },
+  {
+    "model":"api_solution3.entity",
+    "pk":3,
+    "fields":{
+      "value": 3,
+      "properties": [5]
+    }
+  },
+  {
+    "model":"api_solution3.entity",
+    "pk":4,
+    "fields":{
+      "value": 4,
+      "properties": [6,7]
+    }
+  }
+]
